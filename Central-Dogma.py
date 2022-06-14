@@ -1,4 +1,4 @@
-genome = {
+genetic_code = {
     'UUU': 'Phe',
     'UUC': 'Phe',
     'UUA': 'Leu',
@@ -67,3 +67,5 @@ genome = {
     'GGA': 'Gly',
     'GGG': 'Gly'
 }
+
+template = []
